@@ -1,4 +1,4 @@
-# 👋 Olá! Meu nome é Patrik Teles
+# 👋 Hello ! My name is Patrik Teles
 
 🎓 Estudante de Engenharia de Software  
 💻 Aprendendo **Java** e **Python**, com foco em backend  
@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 Tecnologias que estou aprendendo
+## 🚀 Main skills
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -15,7 +15,7 @@
 
 ---
 
-## 💡 Sobre mim
+## 💡 About me
 
 - Estou no início da minha jornada como dev
 - Pratico bastante lógica e pequenos projetos
@@ -23,7 +23,7 @@
 
 ---
 
-## 🌐 Me encontra por aí
+## 🌐 Social
 
 [![Instagram](https://img.shields.io/badge/@patrik_rj-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/patrik_rj)
 [![TikTok](https://img.shields.io/badge/@patrikteles-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@patrikteles)

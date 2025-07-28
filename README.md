@@ -1,8 +1,8 @@
 # 👋 Hello ! My name is Patrik Teles
 
-🎓 Estudante de Engenharia de Software  
-💻 Aprendendo **Java** e **Python**, com foco em backend  
-📚 Curioso por tecnologia, UX e boas práticas de programação  
+🎓 Software Engineering Student
+💻 Learning **Java** and **Python**, focusing on backend
+📚 Curious about technology, UX, and good programming practices
 
 ---
 

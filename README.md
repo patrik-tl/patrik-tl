@@ -1,3 +1,6 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=02D808&height=120&section=header"/>
+
+
 # 👋 Hello ! My name is Patrik Teles
 
 🎓 Software Engineering Student  
@@ -30,5 +33,4 @@
 
 ---
 
-<!-- Estatísticas (opcional, remova os comentários para ativar) -->
-<!-- ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=patrikteles&show_icons=true&theme=radical) -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=02D808&height=120&section=footer"/>

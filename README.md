@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Patrik Teles
+# 👋 Olá! Meu nome é Patrik Teles
 
 🎓 Estudante de Engenharia de Software  
 💻 Aprendendo **Java** e **Python**, com foco em backend  

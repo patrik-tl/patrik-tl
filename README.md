@@ -16,9 +16,9 @@
 
 ## 💡 About me
 
-- Estou no início da minha jornada como dev
-- Pratico bastante lógica e pequenos projetos
-- Também compartilho conteúdo sobre estilo de vida, treino e tecnologia nas redes
+* Currently starting my journey as a developer.  
+* Focusing on practicing logic and building small projects.    
+* Also sharing content about lifestyle, training, and technology on social media.  
 
 ---
 

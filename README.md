@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=02D808&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E82F9&height=120&section=header"/>
 
 
 # 👋 Hello ! My name is Patrik Teles
@@ -33,4 +33,4 @@
 
 ---
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=02D808&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E82F9&height=120&section=footer"/>

@@ -13,13 +13,13 @@ Desenvolvedor Back-end | Java, SpringBoot, MySQL | Desenvolvimento de APIs e Apl
 
 ---
 
-## 💡 About me
+## 💡 Aobre Mim
 
 * Atualmente iniciando minha jornada como desenvolvedor.* Focando em praticar lógica e construir pequenos projetos.* Também compartilhando conteúdo sobre estilo de vida, treinamento e tecnologia nas redes sociais.
 
 ---
 
-## 🌐 Social
+## 🌐 Redes Sociais
 
 [![Instagram](https://img.shields.io/badge/@patrik_rj-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/patrik_rj)
 [![TikTok](https://img.shields.io/badge/@patrikteles-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@patrikteles)

@@ -3,9 +3,8 @@
 
 # 👋 Hello ! My name is Patrik Teles
 
-🎓 Software Engineering Student  
-💻 Learning Java and Python, focused on backend development  
-📚 Curious about technology, UX, and coding best practices  
+🎓 Estudante de Engenharia de Software 
+Desenvolvedor Back-end | Java, SpringBoot, MySQL | Desenvolvimento de APIs e Aplicação desktop  
 ---
 
 ## 🚀 Main skills

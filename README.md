@@ -1,13 +1,10 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E82F9&height=120&section=header"/>
-
-
-# 👋 Hello ! My name is Patrik Teles
+# 👋 Olá, meu nome é Patrik Teles
 
 🎓 Estudante de Engenharia de Software 
 Desenvolvedor Back-end | Java, SpringBoot, MySQL | Desenvolvimento de APIs e Aplicação desktop  
 ---
 
-## 🚀 Main skills
+## 🚀 Principais habilidades
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -18,9 +15,7 @@ Desenvolvedor Back-end | Java, SpringBoot, MySQL | Desenvolvimento de APIs e Apl
 
 ## 💡 About me
 
-* Currently starting my journey as a developer.  
-* Focusing on practicing logic and building small projects.    
-* Also sharing content about lifestyle, training, and technology on social media.  
+* Atualmente iniciando minha jornada como desenvolvedor.* Focando em praticar lógica e construir pequenos projetos.* Também compartilhando conteúdo sobre estilo de vida, treinamento e tecnologia nas redes sociais.
 
 ---
 

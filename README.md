@@ -13,7 +13,7 @@ Desenvolvedor Back-end | Java, SpringBoot, MySQL | Desenvolvimento de APIs e Apl
 
 ---
 
-## 💡 Aobre Mim
+## 💡 Sobre Mim
 
 * Atualmente iniciando minha jornada como desenvolvedor.* Focando em praticar lógica e construir pequenos projetos.* Também compartilhando conteúdo sobre estilo de vida, treinamento e tecnologia nas redes sociais.
 

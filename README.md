@@ -27,4 +27,3 @@ Desenvolvedor Back-end | Java, SpringBoot, MySQL | Desenvolvimento de APIs e Apl
 
 ---
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E82F9&height=120&section=footer"/>
